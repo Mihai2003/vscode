@@ -622,4 +622,4 @@ function getNLSConfiguration(locale) {
 		return defaultResult(locale);
 	}
 }
-//#endregion
+//#endregion.
